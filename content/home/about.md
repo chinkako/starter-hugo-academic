@@ -1,9 +1,9 @@
 ---
-widget: about:authors
+widget: about
 widget_id: about
 headless: true
 weight: 10
-title: 个人简介
+title: Authors
 active: true
 design:
   columns: "2"
