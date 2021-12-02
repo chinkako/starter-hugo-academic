@@ -17,7 +17,6 @@ social:
 
 organizations:
   - name: 华中师范大学 计算机学院 
-  - 华中师范大学 伍伦贡联合研究院
     url: https://www.ccnu.edu.cn
 education:
   courses:
