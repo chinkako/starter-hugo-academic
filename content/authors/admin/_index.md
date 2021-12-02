@@ -12,7 +12,7 @@ social:
     icon_pack: fas
     link: /#contact
   - icon: qq
-    icon_pack: fas
+    icon_pack: fab
     link: /#contact
 
 organizations:
