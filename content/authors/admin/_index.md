@@ -1,12 +1,12 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
+title: 陈嘉耕
+role: 副教授，信息安全系
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 密码分析
+  - 密码协议设计
+  - 区块链隐私保护
 social:
   - icon: envelope
     icon_pack: fas
