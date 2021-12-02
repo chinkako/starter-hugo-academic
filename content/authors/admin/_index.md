@@ -24,8 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Central China Normal Univeristy
+    url: https://www.ccnu.edu.cn
 education:
   courses:
     - course: PhD in Artificial Intelligence
