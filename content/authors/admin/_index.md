@@ -28,15 +28,15 @@ organizations:
     url: https://www.ccnu.edu.cn
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: 信息安全专业博士
+      institution: JAIST
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: 信息安全专业硕士
+      institution: JAIST
+      year: 2007
+    - course: 计算科学与技术专业本科
+      institution: 华中科技大学
+      year: 2004
 email: ""
 superuser: true
 highlight_name: true
