@@ -24,7 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: 华中师范大学 计算机学院 <br> 华中师范大学 伍伦贡联合研究院
+  - name: 华中师范大学 计算机学院 
+  - 华中师范大学 伍伦贡联合研究院
     url: https://www.ccnu.edu.cn
 education:
   courses:
